@@ -58,7 +58,7 @@ public class Main {
     float KristinaYearSalaryDifference = (KristinaSalaryGrow * 12) % (KristinaSalaryMonth * 12);
     System.out.println("Зарплата Кристины с повышением: " + KristinaSalaryGrow + "; Разница в годовом доходе: " + KristinaYearSalaryDifference);
 
-
+;
 
 
 
